@@ -1,1 +1,1 @@
-# SIS
+# SIS  a data management tool that synchronizes all management processes in an educational institution.
